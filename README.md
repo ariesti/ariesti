@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF017E&width=435&lines=Hi%2C+I'm+%40Ariesti;A+repository+by+Lovelli+Fuad)](https://git.io/typing-svg)
-
 - 👀 I love building with HTML and CSS. Sometimes also JavaScript. 
 - 🌱 I’m currently learning content development for websites.
 - 💞️ I’m looking to collaborate on art-directed pages and open-source projects.
