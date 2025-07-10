@@ -2,9 +2,7 @@
 - 👀 I love building with HTML and CSS. Sometimes also JavaScript. 
 - 🌱 I’m currently learning content development for websites.
 - 💞️ I’m looking to collaborate on art-directed pages and open-source projects.
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ariesti&theme=tokyonight-duo)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ariesti&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
 - 📫 How to reach me? Please send an email with a short intro. 
 
 <!---
